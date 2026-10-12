@@ -2,10 +2,6 @@
 
 An exploratory academic project studying innovation and platform ecosystems through **Minecraft Java Edition mods and modpacks**, with an initial focus on publicly described projects on CurseForge.
 
-**Researcher:** Li Baomin  
-PhD Student in Business Administration, Business School, Central South University  
-**Contact:** [hoenglam1019@gmail.com](mailto:hoenglam1019@gmail.com)
-
 ## Purpose
 
 This project examines what available metadata can reveal about the development, interdependence, and maintenance of community-created software. Potential questions include how projects evolve, how compatibility changes relate to maintenance activity, and how dependencies and modpack membership connect projects within an ecosystem. Specific empirical questions will be refined after assessing coverage and measurement quality.
