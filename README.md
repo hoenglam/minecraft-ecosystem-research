@@ -48,5 +48,3 @@ The example performs local validation only. Its records are synthetic and are no
 ## Data access and publication
 
 API keys, raw research datasets, and mod binaries are excluded from this public repository. The intended outputs are research documentation, analysis code, and appropriately permitted summaries. Collection, retention, and redistribution remain subject to the permissions and terms agreed with the relevant data providers and rights holders. API access alone will not be treated as permission to redistribute data.
-
-This is an independent academic project and does not claim affiliation with or endorsement by CurseForge, Overwolf, Mojang, or Microsoft.
