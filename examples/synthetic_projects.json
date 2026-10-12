@@ -1,0 +1,28 @@
+{
+  "schema_version": "0.1",
+  "synthetic": true,
+  "projects": [
+    {
+      "project_id": "demo-core",
+      "name": "Synthetic Core Library",
+      "source": "synthetic",
+      "observed_at": "2026-10-12T00:00:00Z",
+      "download_count": 1500
+    },
+    {
+      "project_id": "demo-addon",
+      "name": "Synthetic Exploration Add-on",
+      "source": "synthetic",
+      "observed_at": "2026-10-12T00:00:00Z",
+      "download_count": null
+    }
+  ],
+  "relations": [
+    {
+      "source_project_id": "demo-addon",
+      "target_project_id": "demo-core",
+      "relation_type": "required_dependency",
+      "observed_at": "2026-10-12T00:00:00Z"
+    }
+  ]
+}

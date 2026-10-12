@@ -1,0 +1,26 @@
+# Local datasets and research outputs
+data/
+raw/
+processed/
+outputs/
+*.sqlite
+*.sqlite3
+*.db
+*.parquet
+*.csv
+*.zip
+*.jar
+
+# Local credentials and environments
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
